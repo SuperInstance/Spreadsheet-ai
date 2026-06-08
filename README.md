@@ -10,3 +10,11 @@ AI-powered spreadsheet intelligence layer. Adds natural language querying, formu
 
 ## License
 MIT
+---
+
+## 🚢 Fleet Integration
+
+Part of the SuperInstance spreadsheet ecosystem. Uses the same ternary {-1,0,+1}
+values as the 220+ repo MIDI fleet.
+
+**Related Repos:** fleet-ternary-music, fleet-orchestra, fleet-arm-compat
