@@ -113,6 +113,28 @@ for 5 consecutive ticks. Should I investigate?"
 - Integration with superinstance-spreadsheet's browser UI
 - Room-specific context for AI query understanding
 
+## Documentation (3-Doc Standard)
+
+Every Quilt-elevated repo ships three docs. Spreadsheet-ai ships all three:
+
+- **[UPSTREAM.md](UPSTREAM.md)** — what we inherited from the original vessel, what we added, and why the lean paradigm matters.
+- **[QUILT.md](QUILT.md)** — the canon connection. Maps Spreadsheet-ai's 5 cell types onto Quilt's 5 opcodes. The bridge essay `82-the-gold-in-the-spreadsheet.md` lives in the canon and cites this repo.
+- **[PLAIN_LANGUAGE.md](PLAIN_LANGUAGE.md)** — for non-physicists. The cell model in one page. SMPbots explained on a napkin.
+
+## Canon Pieces (Live)
+
+The divergent-economy stories use the SMPbot paradigm as a lens. They live in AI-Writings and are part of the live canon at `a2a-v3.superinstance.dev`:
+
+- **[`82-the-gold-in-the-spreadsheet.md`](https://github.com/SuperInstance/AI-Writings/blob/main/82-the-gold-in-the-spreadsheet.md)** — the bridge essay. The cell model was always the spreadsheet.
+- **[`40-the-three-harbors-of-the-inland-sea.md`](https://github.com/SuperInstance/AI-Writings/blob/main/40-the-three-harbors-of-the-inland-sea.md)** — three cities, three currencies, one sea.
+- **[`41-the-city-that-banned-iron.md`](https://github.com/SuperInstance/AI-Writings/blob/main/41-the-city-that-banned-iron.md)** — specialization as a long-term trap.
+- **[`42-the-salt-road-and-the-silver-road.md`](https://github.com/SuperInstance/AI-Writings/blob/main/42-the-salt-road-and-the-silver-road.md)** — two economies, two measures, one mountain.
+- **[`43-the-city-of-the-ledger-and-the-city-of-the-hearth.md`](https://github.com/SuperInstance/AI-Writings/blob/main/43-the-city-of-the-ledger-and-the-city-of-the-hearth.md)** — recorded truth vs remembered truth.
+- **[`44-the-twin-ports-that-forgot-each-other.md`](https://github.com/SuperInstance/AI-Writings/blob/main/44-the-twin-ports-that-forgot-each-other.md)** — parallel evolution on a city level.
+- **[`45-the-allopatry-of-canons.md`](https://github.com/SuperInstance/AI-Writings/blob/main/45-the-allopatry-of-canons.md)** — what island biogeography tells us about canon drift.
+
+All seven are now part of the live citation graph (`a2a-v3.superinstance.dev/canon-b1` — currently 124 vertices, 365 edges, b1 = 242).
+
 ## License
 MIT
 ---
@@ -122,4 +144,6 @@ MIT
 Part of the SuperInstance spreadsheet ecosystem. Uses the same ternary {-1,0,+1}
 values as the 220+ repo MIDI fleet.
 
-**Related Repos:** fleet-ternary-music, fleet-orchestra, fleet-arm-compat
+**Related Repos:** fleet-ternary-music, fleet-orchestra, fleet-arm-compat, [rune-quilt](https://github.com/SuperInstance/rune-quilt)
+
+*The cell is the model. The model is the cell.*
